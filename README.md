@@ -1,0 +1,6 @@
+# intro-starWars  
+Este é o Projeto final feito para o curso de JavaScript do potência feminina junto com a Womarkerscode e ifood... 
+
+Foi criado a intro dos filmes de star wars só que contando a minha história... Então tem um breve resumo da minha vida até aqui... 
+
+Espero que gostem! 
